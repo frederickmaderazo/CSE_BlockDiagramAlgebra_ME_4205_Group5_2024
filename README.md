@@ -9,8 +9,8 @@
 # CSE_StepResponse_LAB3_SIMULINK_NO1_EBORA
 ![LAB3_STEP RESPONSE_NO1_EBORA](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159415810/24fcaf7e-5623-4ef4-9b25-8e50c596cba1)
 # CSE_BlockDiagramAlgebra_LAB3_MANUAL_CALCULATION_No2_MADERAZO
-![d9f1b233-b493-4f74-acc8-14c9098a6bd4](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159031302/b152f7fa-689f-429a-a402-e18e7929d6e1)
 ![4ef54757-8a88-423e-8bcc-b2aab8833c63](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159031302/8d23a939-2a75-4db1-ad7b-41680cf5e79d)
+![d9f1b233-b493-4f74-acc8-14c9098a6bd4](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159031302/b152f7fa-689f-429a-a402-e18e7929d6e1)
 # CSE_StepResponse_BlockDiagram_LAB3_SIMULINK_NO2_RAGO
 ![rago no2 simulink](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159045027/bc5965bb-3a6a-4701-a356-871c21ec2772)
 ![Rago no2 matlab](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159045027/6afebed1-8e94-4cbc-a50f-d5856bbea0ff)
