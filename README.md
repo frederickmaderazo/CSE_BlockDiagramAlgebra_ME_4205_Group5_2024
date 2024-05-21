@@ -8,3 +8,6 @@
 ![LAB3_BLOCK DIAGRAM_NO1_EBORA](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159415810/7b5d65e9-d2f5-4a36-b999-2ca179800268)
 # CSE_StepResponse_LAB3_SIMULINK_NO1_EBORA
 ![LAB3_STEP RESPONSE_NO1_EBORA](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159415810/24fcaf7e-5623-4ef4-9b25-8e50c596cba1)
+# CSE_StepResponse_BlockDiagram_LAB3_SIMULINK_NO2_RAGO
+![rago no2 simulink](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159045027/bc5965bb-3a6a-4701-a356-871c21ec2772)
+![Rago no2 matlab](https://github.com/frederickmaderazo/CSE_BlockDiagramAlgebra_ME_4205_Group5_2024/assets/159045027/6afebed1-8e94-4cbc-a50f-d5856bbea0ff)
